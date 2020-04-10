@@ -1,0 +1,1 @@
+export const myConfig = { route1: 'netflix', route2: 'facebook'};
